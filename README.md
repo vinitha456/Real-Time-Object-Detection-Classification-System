@@ -1,4 +1,4 @@
-# 🎯 Real-Time Object Detection & Classification System
+# 🎯 Real-Time Object Detection & Classification System Using YOLOv8
 
 > A multi-feature computer vision pipeline built with YOLOv8 and TensorFlow — supporting object detection, instance segmentation, and transfer learning classification on real-world images.
 
